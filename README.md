@@ -29,6 +29,7 @@ A comprehensive set of filters were implemented, including end year, topics, sec
 
 Screenshots
 
+![barchart](https://github.com/ananthisnkr/fullstackdemo/assets/20458629/170c41c4-6d0c-4de9-a477-bbfcdbfb1217)
 
  
 Bar Chart variations:
