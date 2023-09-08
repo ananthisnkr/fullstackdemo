@@ -37,11 +37,16 @@ Bar Chart variations:
 ⦁	Y-Axis – Intensity, Relevance, likelihood
  
 Tree Map Chart with variation – Intensity, Relevance and Likelihood with tooltip on hover.
- 
+ ![treechart](https://github.com/ananthisnkr/fullstackdemo/assets/20458629/459f1f42-6491-4320-9690-c907a98f4123)
+
 QQPlot Chart with variation – Intensity, Relevance and Likelihood
- 
+ ![qqplot](https://github.com/ananthisnkr/fullstackdemo/assets/20458629/d777fdbb-1660-401a-9165-af8de77eda0e)
+
 Filtering data based on nine different fields and displaying the filtered result in table format.
- 
+ ![filter](https://github.com/ananthisnkr/fullstackdemo/assets/20458629/fdeab88e-5868-4310-89e2-81e4564ebd0e)
+
+![pagination](https://github.com/ananthisnkr/fullstackdemo/assets/20458629/59d84de4-96fd-4a61-a26b-586c80638cb9)
+
 Implemented Pagination for easy navigation in Material UI.
 Connecting Frontend and Backend:
 List of API calls:
