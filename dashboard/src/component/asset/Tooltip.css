@@ -1,0 +1,22 @@
+.tooltip-rect {
+    cursor: pointer; /* Show pointer cursor on hover */
+  }
+  
+  .tooltip-rect title {
+    display: none; /* Hide native tooltip */
+  }
+  
+  .tooltip-rect:hover {
+    fill-opacity: 0.7; /* Add a visual cue on hover */
+  }
+  
+  #tooltip {
+    position: absolute;
+    opacity: 0.9;
+    background-color: white;
+    border: 1px solid gray;
+    padding: 4px;
+    font-size: 12px;
+    pointer-events: none;
+  }
+  

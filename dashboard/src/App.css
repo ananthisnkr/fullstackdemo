@@ -1,0 +1,13 @@
+.visualization {
+  display: flex;
+  width: 100%;
+
+}
+
+.sidenav {
+  width: 20%;
+}
+
+.mainpage {
+  width: 80%;
+}
